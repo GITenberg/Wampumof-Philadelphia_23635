@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '25955'
     url: http://www.gutenberg.org/2009/agents/25955
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23635#Wampumof-Philadelphia
 gutenberg_issued: '2007-11-26'
 gutenberg_type: Text
 identifiers:
